@@ -30,7 +30,7 @@ public class lsearch {
 					break;
 				}
 		}
-				if(tem= false) {
+				if(tem==false) {
 					System.out.println("the number is not found ");
 			}
 		
